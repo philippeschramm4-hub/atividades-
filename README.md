@@ -1,6 +1,6 @@
 # 📝 Entrega do Exercício 01 - Programação Web
 
-- **Aluno:** [ Philippe SChramm Venero ]
+- **Aluno:** [ Philippe Schramm Venero ]
 - **Turma:** [ 101 Net ]
 - **Data de Entrega:** [ 30/09/2026 ]
 
